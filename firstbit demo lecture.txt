@@ -1,0 +1,1 @@
+1)stack provide access to most recent value.
